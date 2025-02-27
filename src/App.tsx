@@ -1,9 +1,7 @@
-import './css/app.css'
+import './css/app.css';
 
 function App() {
-  return (
-    <div>Hello World</div>
-  )
+	return <div>Hello World</div>;
 }
 
-export default App
+export default App;
